@@ -120,7 +120,7 @@ app.layout = html.Div(
                                         RAMESH KUMAR (18BEE0027)
                                         R PRATUSHA PATNAIK (18BEE0001)
                                         
-                                        Github Link for the [project repository](https://github.com/achen353/Face-Mask-Detector).
+                                        Github Link for the [project repository](https://github.com/POOJAKUMARI1205/LIVE-FACE-MASK-DETECTOR).
                                         """
                                     )
                                 )
